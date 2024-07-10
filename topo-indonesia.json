@@ -1,9 +1,5 @@
 {
   "type": "Topology",
-  "transform": {
-    "scale": [0.003589294092944858, 0.0005371535195261037],
-    "translate": [-179.1473400003406, 17.67439566600018]
-  },
   "objects": {
     "counties": {
       "type": "GeometryCollection",
